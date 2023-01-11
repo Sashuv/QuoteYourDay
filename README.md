@@ -3,9 +3,12 @@
  **Streamlit** and utilizes **SQLite3** as the database management system. Streamlit is used to convert the Python application into a web-based 
  application, making it accessible via a web browser. The app serves as a tool for users to reflect on daily quotes and monitor their emotional 
  well-being.
- 
+# The App
+<img src="./images/qyd.png" width="800" height="500">
+<img src="./images/rating.png" width="420" height="150">
+<img src="./images/activity.png" width="800" height="500">
  # Getting Started
- Install these few libraries to get your app running
+ Install these few libraries to get your app running.
  
 1.**Streamlit**
 ```
