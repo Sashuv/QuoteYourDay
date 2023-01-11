@@ -7,7 +7,9 @@
 <img src="./images/qyd.png" width="800" height="500">
 <img src="./images/rating.png" width="420" height="150">
 <img src="./images/activity.png" width="800" height="500">
+
  # Getting Started
+ 
  Install these few libraries to get your app running.
  
 1.**Streamlit**
