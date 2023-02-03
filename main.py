@@ -91,4 +91,4 @@ if selected == "Progress":
     result = view_data()
     df = pd.DataFrame(result, columns=['Caption', 'Date', 'Rating'])
     chart_data = (df['Date'], df['Rating'])
-    st.line_chart(chart_data)
+    st.line_chart(df, x='Date', y='Rating')
