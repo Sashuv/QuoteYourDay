@@ -3,7 +3,6 @@ import streamlit as st
 from streamlit_option_menu import option_menu
 import pandas as pd
 from matplotlib import pyplot as plt
-import plotly.express as px
 from datetime import date
 from database import create_table, add_data, view_data, resetCount, countOne, emptyDB
 
